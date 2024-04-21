@@ -205,15 +205,15 @@
     ]
   },
   {
-    "groupName": "C6H12NO Amides",
-    "folderName": "04_C6H12NO Amides",
+    "groupName": "C6H12NO_Amides",
+    "folderName": "04_C6H12NO_Amides",
     "children": [
       {
         "id": "gddQtOiB5WFisyXOnMO+PiPSsAY=",
         "mf": "C6H13NO",
         "idCodeHash": "141e727b467f89fe7c0b8f1e4c87a7f0",
         "idCode": "dazH@DAIf}jj@@",
-        "file": "./04_C6H12NO Amides/01/index.json",
+        "file": "./04_C6H12NO_Amides/01/index.json",
         "title": "Exercise 25"
       },
       {
@@ -221,7 +221,7 @@
         "mf": "C6H13NO",
         "idCodeHash": "bf2a0672288cc230563cc7a5da0e9aad",
         "idCode": "dazH@DAIfyjj@@",
-        "file": "./04_C6H12NO Amides/02/index.json",
+        "file": "./04_C6H12NO_Amides/02/index.json",
         "title": "Exercise 26"
       },
       {
@@ -229,7 +229,7 @@
         "mf": "C6H13NO",
         "idCodeHash": "af28f8834b7a88b025be397bba17771f",
         "idCode": "dazH@DCHhhbuU@@",
-        "file": "./04_C6H12NO Amides/03/index.json",
+        "file": "./04_C6H12NO_Amides/03/index.json",
         "title": "Exercise 27"
       },
       {
@@ -237,7 +237,7 @@
         "mf": "C6H13NO",
         "idCodeHash": "81fd785fd942608969110ae80480e74e",
         "idCode": "dazH@DAIfujj@@",
-        "file": "./04_C6H12NO Amides/04/index.json",
+        "file": "./04_C6H12NO_Amides/04/index.json",
         "title": "Exercise 28"
       },
       {
@@ -245,7 +245,7 @@
         "mf": "C6H13NO",
         "idCodeHash": "ad596d00965f6ab046a248f1a00a7894",
         "idCode": "dazH@DAIfYjj@@",
-        "file": "./04_C6H12NO Amides/05/index.json",
+        "file": "./04_C6H12NO_Amides/05/index.json",
         "title": "Exercise 29"
       },
       {
@@ -253,21 +253,21 @@
         "mf": "C6H13NO",
         "idCodeHash": "d7bd3c403aca4aed4b1b1cffb7465a31",
         "idCode": "dazH@DAIfUjj@@",
-        "file": "./04_C6H12NO Amides/06/index.json",
+        "file": "./04_C6H12NO_Amides/06/index.json",
         "title": "Exercise 30"
       }
     ]
   },
   {
-    "groupName": "C9H12O Aromatic",
-    "folderName": "05_C9H12O Aromatic",
+    "groupName": "C9H12O_Aromatic",
+    "folderName": "05_C9H12O_Aromatic",
     "children": [
       {
         "id": "uus6bB1OTIi/H5pytdLomQUePVo=",
         "mf": "C9H12O",
         "idCodeHash": "382fd7e231e9be2f2d694b0c1dacc9bb",
         "idCode": "deTH@@Rfuenh@J@@",
-        "file": "./05_C9H12O Aromatic/02/index.json",
+        "file": "./05_C9H12O_Aromatic/02/index.json",
         "title": "Exercise 31"
       },
       {
@@ -275,7 +275,7 @@
         "mf": "C9H12O",
         "idCodeHash": "508fab4c2711eea51a91dba76da9d48c",
         "idCode": "deTH@@RfUahHB@@",
-        "file": "./05_C9H12O Aromatic/05/index.json",
+        "file": "./05_C9H12O_Aromatic/05/index.json",
         "title": "Exercise 32"
       },
       {
@@ -283,7 +283,7 @@
         "mf": "C9H12O",
         "idCodeHash": "d3b6561fd917797a6ed59629a70351bb",
         "idCode": "deTH@@Rfuunh@J@@",
-        "file": "./05_C9H12O Aromatic/09/index.json",
+        "file": "./05_C9H12O_Aromatic/09/index.json",
         "title": "Exercise 33"
       },
       {
@@ -291,7 +291,7 @@
         "mf": "C9H12O",
         "idCodeHash": "e7f1020e6730219e8038591d92884e96",
         "idCode": "deTH@@RfUWihHH@@",
-        "file": "./05_C9H12O Aromatic/10/index.json",
+        "file": "./05_C9H12O_Aromatic/10/index.json",
         "title": "Exercise 34"
       },
       {
@@ -299,7 +299,7 @@
         "mf": "C9H12O",
         "idCodeHash": "8154d6eacd17154d9f2af8eeb901ce8b",
         "idCode": "deTH@@RfU{ahHB@@",
-        "file": "./05_C9H12O Aromatic/11/index.json",
+        "file": "./05_C9H12O_Aromatic/11/index.json",
         "title": "Exercise 35"
       },
       {
@@ -307,7 +307,7 @@
         "mf": "C9H12O",
         "idCodeHash": "43d26828b13dc9eefdae49e9bdc22ef6",
         "idCode": "deTH@@RfV\\YhH`@@",
-        "file": "./05_C9H12O Aromatic/13/index.json",
+        "file": "./05_C9H12O_Aromatic/13/index.json",
         "title": "Exercise 36"
       },
       {
@@ -315,7 +315,7 @@
         "mf": "C9H12O",
         "idCodeHash": "936814c88940f4b95b87aa05d68bc646",
         "idCode": "deTH@@rQQQHcMAP@@@",
-        "file": "./05_C9H12O Aromatic/14/index.json",
+        "file": "./05_C9H12O_Aromatic/14/index.json",
         "title": "Exercise 37"
       },
       {
@@ -323,7 +323,7 @@
         "mf": "C9H12O",
         "idCodeHash": "d0343ca8ba24e7d997f0df5a9366af5a",
         "idCode": "deTH@@rQSIPmu@AP@@",
-        "file": "./05_C9H12O Aromatic/16/index.json",
+        "file": "./05_C9H12O_Aromatic/16/index.json",
         "title": "Exercise 38"
       }
     ]
@@ -451,6 +451,37 @@
         "idCode": "gGQ@@eJttHh",
         "file": "./09_Mixed/16/index.json",
         "title": "Exercise 53"
+      }
+    ]
+  },
+  {
+    "groupName": "correction",
+    "folderName": "correction",
+    "children": [
+      {
+        "groupName": "C5H10O",
+        "folderName": "02_C5H10O",
+        "children": []
+      },
+      {
+        "groupName": "C6H12O2",
+        "folderName": "03_C6H12O2",
+        "children": []
+      },
+      {
+        "groupName": "C6H12NO Amides",
+        "folderName": "04_C6H12NO Amides",
+        "children": []
+      },
+      {
+        "groupName": "C9H12O Aromatic",
+        "folderName": "05_C9H12O Aromatic",
+        "children": []
+      },
+      {
+        "groupName": "Mixed",
+        "folderName": "09_Mixed",
+        "children": []
       }
     ]
   }

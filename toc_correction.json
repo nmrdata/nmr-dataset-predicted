@@ -1,0 +1,27 @@
+[
+  {
+    "groupName": "C5H10O",
+    "folderName": "02_C5H10O",
+    "children": []
+  },
+  {
+    "groupName": "C6H12O2",
+    "folderName": "03_C6H12O2",
+    "children": []
+  },
+  {
+    "groupName": "C6H12NO Amides",
+    "folderName": "04_C6H12NO Amides",
+    "children": []
+  },
+  {
+    "groupName": "C9H12O Aromatic",
+    "folderName": "05_C9H12O Aromatic",
+    "children": []
+  },
+  {
+    "groupName": "Mixed",
+    "folderName": "09_Mixed",
+    "children": []
+  }
+]

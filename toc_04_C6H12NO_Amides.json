@@ -4,7 +4,7 @@
     "mf": "C6H13NO",
     "idCodeHash": "141e727b467f89fe7c0b8f1e4c87a7f0",
     "idCode": "dazH@DAIf}jj@@",
-    "file": "./04_C6H12NO Amides/01/index.json",
+    "file": "./04_C6H12NO_Amides/01/index.json",
     "title": "Exercise 25",
     "selected": true
   },
@@ -13,7 +13,7 @@
     "mf": "C6H13NO",
     "idCodeHash": "bf2a0672288cc230563cc7a5da0e9aad",
     "idCode": "dazH@DAIfyjj@@",
-    "file": "./04_C6H12NO Amides/02/index.json",
+    "file": "./04_C6H12NO_Amides/02/index.json",
     "title": "Exercise 26"
   },
   {
@@ -21,7 +21,7 @@
     "mf": "C6H13NO",
     "idCodeHash": "af28f8834b7a88b025be397bba17771f",
     "idCode": "dazH@DCHhhbuU@@",
-    "file": "./04_C6H12NO Amides/03/index.json",
+    "file": "./04_C6H12NO_Amides/03/index.json",
     "title": "Exercise 27"
   },
   {
@@ -29,7 +29,7 @@
     "mf": "C6H13NO",
     "idCodeHash": "81fd785fd942608969110ae80480e74e",
     "idCode": "dazH@DAIfujj@@",
-    "file": "./04_C6H12NO Amides/04/index.json",
+    "file": "./04_C6H12NO_Amides/04/index.json",
     "title": "Exercise 28"
   },
   {
@@ -37,7 +37,7 @@
     "mf": "C6H13NO",
     "idCodeHash": "ad596d00965f6ab046a248f1a00a7894",
     "idCode": "dazH@DAIfYjj@@",
-    "file": "./04_C6H12NO Amides/05/index.json",
+    "file": "./04_C6H12NO_Amides/05/index.json",
     "title": "Exercise 29"
   },
   {
@@ -45,7 +45,7 @@
     "mf": "C6H13NO",
     "idCodeHash": "d7bd3c403aca4aed4b1b1cffb7465a31",
     "idCode": "dazH@DAIfUjj@@",
-    "file": "./04_C6H12NO Amides/06/index.json",
+    "file": "./04_C6H12NO_Amides/06/index.json",
     "title": "Exercise 30"
   }
 ]
