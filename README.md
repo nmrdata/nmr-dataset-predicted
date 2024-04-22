@@ -11,13 +11,13 @@ Second-order effects are correctly evaluated.
 
 ## Link to all the exercises
 
-[https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-simple-predicted/toc.json](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-simple-predicted/toc.json)
+[https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-predicted/toc.json](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-predicted/toc.json)
 
 Links to series
 
-- [C5H10O](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-simple-predicted/toc_02_C5H10O.json)
-- [C6H12O2](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-simple-predicted/toc_03_C6H12O2.json)
-- [C6H12NO_Amides](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-simple-predicted/toc_04_C6H12NO_Amides.json)
-- [C9H12O_Aromatic](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-simple-predicted/toc_05_C9H12O_Aromatic.json)
-- [Mixed](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-simple-predicted/toc_09_Mixed.json)
-- [correction](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-simple-predicted/toc_correction.json)
+- [C5H10O](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-predicted/toc_02_C5H10O.json)
+- [C6H12O2](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-predicted/toc_03_C6H12O2.json)
+- [C6H12NO_Amides](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-predicted/toc_04_C6H12NO_Amides.json)
+- [C9H12O_Aromatic](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-predicted/toc_05_C9H12O_Aromatic.json)
+- [Mixed](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-predicted/toc_09_Mixed.json)
+- [correction](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-predicted/toc_correction.json)
