@@ -79,21 +79,13 @@
 
 | Exercise | Correction |
 |----------|------------|
-| 01 | ![01](./60_C9H12O_Aromatic/01.svg) |
 | 02 | ![02](./60_C9H12O_Aromatic/02.svg) |
-| 03 | ![03](./60_C9H12O_Aromatic/03.svg) |
-| 04 | ![04](./60_C9H12O_Aromatic/04.svg) |
 | 05 | ![05](./60_C9H12O_Aromatic/05.svg) |
-| 06 | ![06](./60_C9H12O_Aromatic/06.svg) |
-| 07 | ![07](./60_C9H12O_Aromatic/07.svg) |
-| 08 | ![08](./60_C9H12O_Aromatic/08.svg) |
 | 09 | ![09](./60_C9H12O_Aromatic/09.svg) |
 | 10 | ![10](./60_C9H12O_Aromatic/10.svg) |
 | 11 | ![11](./60_C9H12O_Aromatic/11.svg) |
-| 12 | ![12](./60_C9H12O_Aromatic/12.svg) |
 | 13 | ![13](./60_C9H12O_Aromatic/13.svg) |
 | 14 | ![14](./60_C9H12O_Aromatic/14.svg) |
-| 15 | ![15](./60_C9H12O_Aromatic/15.svg) |
 | 16 | ![16](./60_C9H12O_Aromatic/16.svg) |
 
 ## 90_Mixed

@@ -45,10 +45,10 @@
         "title": "Exercise 5"
       },
       {
-        "id": "4t8PT6mpwt29GxeP3IGfe9MDzdo=",
+        "id": "7avt4TMHjM4SFaw9IShwK/edxUk=",
         "mf": "C4H8O",
-        "idCodeHash": "2ba583209742a5636519d3d951225805",
-        "idCode": "gJQ@@eOS@@",
+        "idCodeHash": "825a50192457abeee4879f2bb34a0464",
+        "idCode": "gJQ@@eOSBJ@",
         "file": "./10_C4H8O/06/index.json",
         "title": "Exercise 6"
       },
@@ -443,36 +443,12 @@
     "folderName": "60_C9H12O_Aromatic",
     "children": [
       {
-        "id": "4cbYpcR1MLefRmFrXJf4CuT3pc8=",
-        "mf": "C9H12O",
-        "idCodeHash": "08dec1969132eaf5ad84663e5049d7cf",
-        "idCode": "deTH@@Rf{TYj`@@@",
-        "file": "./60_C9H12O_Aromatic/01/index.json",
-        "title": "Exercise 52"
-      },
-      {
         "id": "uus6bB1OTIi/H5pytdLomQUePVo=",
         "mf": "C9H12O",
         "idCodeHash": "382fd7e231e9be2f2d694b0c1dacc9bb",
         "idCode": "deTH@@Rfuenh@J@@",
         "file": "./60_C9H12O_Aromatic/02/index.json",
-        "title": "Exercise 53"
-      },
-      {
-        "id": "azKLoQTowikWtT6Kojf3bm7uPfk=",
-        "mf": "C9H12O",
-        "idCodeHash": "b452119cd82fd1a473f067950e8f5b35",
-        "idCode": "deTH@@rQSQH|M@PP@@",
-        "file": "./60_C9H12O_Aromatic/03/index.json",
-        "title": "Exercise 54"
-      },
-      {
-        "id": "bGhaEODUCnaUTnD9jyf4Oy4g2tc=",
-        "mf": "C9H12O",
-        "idCodeHash": "d2669181e02de8c5a8474f2baeab12dc",
-        "idCode": "deTH@@RfygihBH@@",
-        "file": "./60_C9H12O_Aromatic/04/index.json",
-        "title": "Exercise 55"
+        "title": "Exercise 52"
       },
       {
         "id": "438M8hFusnf85UqyDLQNXoopQIU=",
@@ -480,31 +456,7 @@
         "idCodeHash": "508fab4c2711eea51a91dba76da9d48c",
         "idCode": "deTH@@RfUahHB@@",
         "file": "./60_C9H12O_Aromatic/05/index.json",
-        "title": "Exercise 56"
-      },
-      {
-        "id": "yd2Jbg9AeKGCK7S6/6sdAmMnGSc=",
-        "mf": "C9H12O",
-        "idCodeHash": "ff6577e8f56d3008d68b56e410df6fa0",
-        "idCode": "deTH@@Rfumnh@J@@",
-        "file": "./60_C9H12O_Aromatic/06/index.json",
-        "title": "Exercise 57"
-      },
-      {
-        "id": "whLE1dJILBB4wT/E/N5uuMPaDQU=",
-        "mf": "C9H12O",
-        "idCodeHash": "f45de1442be8be826cd5a22712d01ff3",
-        "idCode": "deTH@@Re[TYj`@@@",
-        "file": "./60_C9H12O_Aromatic/07/index.json",
-        "title": "Exercise 58"
-      },
-      {
-        "id": "RhqC8dmTBq5bbY4bj5+gWB+3ibo=",
-        "mf": "C9H12O",
-        "idCodeHash": "11d5b22eababea0de2f3f57ea296a71d",
-        "idCode": "deTH@@RgYTYj`@@@",
-        "file": "./60_C9H12O_Aromatic/08/index.json",
-        "title": "Exercise 59"
+        "title": "Exercise 53"
       },
       {
         "id": "W8FOanMvJskenr4D2qJKxwNIN3Y=",
@@ -512,7 +464,7 @@
         "idCodeHash": "d3b6561fd917797a6ed59629a70351bb",
         "idCode": "deTH@@Rfuunh@J@@",
         "file": "./60_C9H12O_Aromatic/09/index.json",
-        "title": "Exercise 60"
+        "title": "Exercise 54"
       },
       {
         "id": "yEVXhM1YHWSxlMgzyU9RotzUhKU=",
@@ -520,7 +472,7 @@
         "idCodeHash": "e7f1020e6730219e8038591d92884e96",
         "idCode": "deTH@@RfUWihHH@@",
         "file": "./60_C9H12O_Aromatic/10/index.json",
-        "title": "Exercise 61"
+        "title": "Exercise 55"
       },
       {
         "id": "+qyVC3ts0mbpR3fAtTwQi8oNPLA=",
@@ -528,15 +480,7 @@
         "idCodeHash": "8154d6eacd17154d9f2af8eeb901ce8b",
         "idCode": "deTH@@RfU{ahHB@@",
         "file": "./60_C9H12O_Aromatic/11/index.json",
-        "title": "Exercise 62"
-      },
-      {
-        "id": "1q/yjxZtBB8o8MSt+UASCarFBCk=",
-        "mf": "C9H12O",
-        "idCodeHash": "83325588e148b2f07076a6e9a04bfa96",
-        "idCode": "deTH@@Rge[aj@B@@",
-        "file": "./60_C9H12O_Aromatic/12/index.json",
-        "title": "Exercise 63"
+        "title": "Exercise 56"
       },
       {
         "id": "+FXiA5qXVlzt8iMnEj2bD23IotQ=",
@@ -544,7 +488,7 @@
         "idCodeHash": "43d26828b13dc9eefdae49e9bdc22ef6",
         "idCode": "deTH@@RfV\\YhH`@@",
         "file": "./60_C9H12O_Aromatic/13/index.json",
-        "title": "Exercise 64"
+        "title": "Exercise 57"
       },
       {
         "id": "wK/t4WlFmDQB2ywTMsyUBlmwpBs=",
@@ -552,15 +496,7 @@
         "idCodeHash": "936814c88940f4b95b87aa05d68bc646",
         "idCode": "deTH@@rQQQHcMAP@@@",
         "file": "./60_C9H12O_Aromatic/14/index.json",
-        "title": "Exercise 65"
-      },
-      {
-        "id": "C1BAuIe6GVYgmMVkF2/ne+sptdI=",
-        "mf": "C9H12O",
-        "idCodeHash": "13f82359743a8501cab2b9b52aaf059a",
-        "idCode": "deTH@@RgfTYj@`@@",
-        "file": "./60_C9H12O_Aromatic/15/index.json",
-        "title": "Exercise 66"
+        "title": "Exercise 58"
       },
       {
         "id": "V1RTqAJEWzsFj9CebzB9SD5guss=",
@@ -568,7 +504,7 @@
         "idCodeHash": "d0343ca8ba24e7d997f0df5a9366af5a",
         "idCode": "deTH@@rQSIPmu@AP@@",
         "file": "./60_C9H12O_Aromatic/16/index.json",
-        "title": "Exercise 67"
+        "title": "Exercise 59"
       }
     ]
   },
@@ -582,7 +518,7 @@
         "idCodeHash": "eb47bc58f18348f072fa6872ca0e0f78",
         "idCode": "gNp`@dfUZj@@",
         "file": "./90_Mixed/01/index.json",
-        "title": "Exercise 68"
+        "title": "Exercise 60"
       },
       {
         "id": "ayuLe4CvLJ53jjWTh3hOTWixV9U=",
@@ -590,7 +526,7 @@
         "idCodeHash": "682c15c5310e31b584df5642842cfb09",
         "idCode": "gNx@@eRmUP@",
         "file": "./90_Mixed/02/index.json",
-        "title": "Exercise 69"
+        "title": "Exercise 61"
       },
       {
         "id": "QR7tvUfaYsNyaJGodFIPB060tg8=",
@@ -598,7 +534,7 @@
         "idCodeHash": "eb8d2e1545be5bbd9e2067e2c8f9c8a5",
         "idCode": "daD@@DjUZxHH@@",
         "file": "./90_Mixed/03/index.json",
-        "title": "Exercise 70"
+        "title": "Exercise 62"
       },
       {
         "id": "2MS1hk0rv/PlNJWvkb0czEmaIXU=",
@@ -606,7 +542,7 @@
         "idCodeHash": "6a9d61bcf9a3ceb39c0b4659e92d7460",
         "idCode": "deTD@@iIYe^e```@@",
         "file": "./90_Mixed/04/index.json",
-        "title": "Exercise 71"
+        "title": "Exercise 63"
       },
       {
         "id": "3sdk4P6vquebXuAxL+Cbdw5VUdI=",
@@ -614,7 +550,7 @@
         "idCodeHash": "ac1658d3de579048cdb9ba1cc6b6fa4d",
         "idCode": "gGPHADIJuU@@",
         "file": "./90_Mixed/05/index.json",
-        "title": "Exercise 72"
+        "title": "Exercise 64"
       },
       {
         "id": "O7blijKe+wtIcPyVdJbEbmbuOdg=",
@@ -622,7 +558,7 @@
         "idCodeHash": "587abe5a6fd06f12b8e395dd83b253d2",
         "idCode": "didH`FCDRYVzz@H`@@",
         "file": "./90_Mixed/07/index.json",
-        "title": "Exercise 73"
+        "title": "Exercise 65"
       },
       {
         "id": "C9tCCSMMhn1TTJehUj9hC5Acf9Y=",
@@ -630,7 +566,7 @@
         "idCodeHash": "675bc54346a87137045d13d66d181efe",
         "idCode": "gGQ@@eKTt@@",
         "file": "./90_Mixed/08/index.json",
-        "title": "Exercise 74"
+        "title": "Exercise 66"
       },
       {
         "id": "EaKs2ALavn0glrz2zngx/8Bg0lQ=",
@@ -638,7 +574,7 @@
         "idCodeHash": "b4f4279b8d835502d5d2840adc587521",
         "idCode": "deVDAHAHeNR[e_aZ@B@@",
         "file": "./90_Mixed/09/index.json",
-        "title": "Exercise 75"
+        "title": "Exercise 67"
       },
       {
         "id": "6BgyBpbzbzF1hs1tq45qqI421Jc=",
@@ -646,7 +582,7 @@
         "idCodeHash": "4761c8e872fd792cc36088e849fa9cc7",
         "idCode": "dmTL@@SlbbTTlZjZ`@",
         "file": "./90_Mixed/10/index.json",
-        "title": "Exercise 76"
+        "title": "Exercise 68"
       },
       {
         "id": "gT/ySuoBwBOD0udHOlBm6jObaWw=",
@@ -654,7 +590,7 @@
         "idCodeHash": "757f6b6d9e00f521978a2f40c16a8d84",
         "idCode": "daF@@@ReYJ`@h@@",
         "file": "./90_Mixed/11/index.json",
-        "title": "Exercise 77"
+        "title": "Exercise 69"
       },
       {
         "id": "1Kf8lXXaJRAEyFK7tt0AFjdE4Qc=",
@@ -662,7 +598,7 @@
         "idCodeHash": "3f85b461d262f3f3ac68b9a72b8e8dd6",
         "idCode": "defD@JADfUYZjj@@",
         "file": "./90_Mixed/12/index.json",
-        "title": "Exercise 78"
+        "title": "Exercise 70"
       },
       {
         "id": "vZYSdSDL+XLp/NBncJ/cMyyGEH0=",
@@ -670,7 +606,7 @@
         "idCodeHash": "0f06058039ca60ea1d32bc13e9dc7be9",
         "idCode": "dmtH@@rJJYJGaZ@B`@@",
         "file": "./90_Mixed/13/index.json",
-        "title": "Exercise 79"
+        "title": "Exercise 71"
       },
       {
         "id": "uvfu+xLZBS1XlfuloMaX2bob9dk=",
@@ -678,7 +614,7 @@
         "idCodeHash": "a74d371cc5bf45591540b567f661eff3",
         "idCode": "diDD@@QIeZZjh@@",
         "file": "./90_Mixed/14/index.json",
-        "title": "Exercise 80"
+        "title": "Exercise 72"
       },
       {
         "id": "MA+0DbOHyk4SOe+qF4eVKjfEYLk=",
@@ -686,7 +622,7 @@
         "idCodeHash": "a2a5e4ba716e178302a0214a9e5e24f5",
         "idCode": "dmv@@@rRJEJKaj@B`@@",
         "file": "./90_Mixed/15/index.json",
-        "title": "Exercise 81"
+        "title": "Exercise 73"
       },
       {
         "id": "+1f6H4kqk1VtmlZZdgrBauuSqAM=",
@@ -694,7 +630,7 @@
         "idCodeHash": "c4127ed7057510908907f3ba54a79b1c",
         "idCode": "gGQ@@eJttHh",
         "file": "./90_Mixed/16/index.json",
-        "title": "Exercise 82"
+        "title": "Exercise 74"
       }
     ]
   }
