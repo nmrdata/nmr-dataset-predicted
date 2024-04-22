@@ -1,0 +1,43 @@
+[
+  {
+    "id": "0hP1cQ613WC4/1g+ddTApbgmaJ4=",
+    "mf": "C5H11Cl",
+    "idCodeHash": "07cb3666cc4438a4d21bde85916022b5",
+    "idCode": "gGPHADIKUU@@",
+    "file": "./07_C5H11Cl/01/index.json",
+    "title": "Exercise 6",
+    "selected": true
+  },
+  {
+    "id": "U3qfjOSjEg7uf2gQ0J77YE0Bl04=",
+    "mf": "C5H11Cl",
+    "idCodeHash": "a5861569ae492ddb98466641bac311ff",
+    "idCode": "gGPHADIMMU@@",
+    "file": "./07_C5H11Cl/02/index.json",
+    "title": "Exercise 7"
+  },
+  {
+    "id": "0DZWsPbpThPqdsGYpAvw8G9pMXg=",
+    "mf": "C5H11Cl",
+    "idCodeHash": "2f9998bbba59357ccd7f9610ad2501b1",
+    "idCode": "gGPHADILmU@@",
+    "file": "./07_C5H11Cl/03/index.json",
+    "title": "Exercise 8"
+  },
+  {
+    "id": "P5w9nqXLuT6DzCrdsX/nIEUBTKE=",
+    "mf": "C5H11Cl",
+    "idCodeHash": "76e54bb513d89bc4a0fbf3be2313b90d",
+    "idCode": "gGPHADIJmU@@",
+    "file": "./07_C5H11Cl/04/index.json",
+    "title": "Exercise 9"
+  },
+  {
+    "id": "Z/YIrAhH6zUdw2A2A5NS90TmPi0=",
+    "mf": "C5H11Cl",
+    "idCodeHash": "ac1658d3de579048cdb9ba1cc6b6fa4d",
+    "idCode": "gGPHADIJuU@@",
+    "file": "./07_C5H11Cl/05/index.json",
+    "title": "Exercise 10"
+  }
+]

@@ -1,5 +1,5 @@
-<svg id="mol46" xmlns="http://www.w3.org/2000/svg" version="1.1" width="119px" height="82px" viewBox="91 63 119 82">
-  <style> text {font-family: sans-serif;} #mol46 { pointer-events:none; } #mol46 .event  { pointer-events:all; } line { stroke-linecap:round; } polygon { stroke-linejoin:round; } </style>
+<svg id="mol56" xmlns="http://www.w3.org/2000/svg" version="1.1" width="119px" height="82px" viewBox="91 63 119 82">
+  <style> text {font-family: sans-serif;} #mol56 { pointer-events:none; } #mol56 .event  { pointer-events:all; } line { stroke-linecap:round; } polygon { stroke-linejoin:round; } </style>
   <text x="175.73" y="134.67" stroke="none" font-size="14" fill="rgb(255,13,13)">O</text>
   <text x="155.34" y="98.67" stroke="none" font-size="14" fill="rgb(48,80,248)">N</text>
   <line x1="179.38" y1="104.96" x2="179.38" y2="123" stroke="rgb(0,0,0)" stroke-width="1.44" />
@@ -10,19 +10,19 @@
   <line x1="154.34" y1="97.5" x2="139.61" y2="106" stroke="rgb(0,0,0)" stroke-width="1.44" />
   <line x1="139.61" y1="106" x2="118.82" y2="94" stroke="rgb(0,0,0)" stroke-width="1.44" />
   <line x1="118.82" y1="94" x2="98.04" y2="106" stroke="rgb(0,0,0)" stroke-width="1.44" />
-  <line id="mol46:Bond:1" class="event" x1="181.18" y1="106" x2="181.18" y2="130" stroke-width="8" opacity="0" />
-  <line id="mol46:Bond:0" class="event" x1="201.96" y1="94" x2="181.18" y2="106" stroke-width="8" opacity="0" />
-  <line id="mol46:Bond:2" class="event" x1="181.18" y1="106" x2="160.39" y2="94" stroke-width="8" opacity="0" />
-  <line id="mol46:Bond:3" class="event" x1="160.39" y1="94" x2="160.39" y2="70" stroke-width="8" opacity="0" />
-  <line id="mol46:Bond:4" class="event" x1="160.39" y1="94" x2="139.61" y2="106" stroke-width="8" opacity="0" />
-  <line id="mol46:Bond:5" class="event" x1="139.61" y1="106" x2="118.82" y2="94" stroke-width="8" opacity="0" />
-  <line id="mol46:Bond:6" class="event" x1="118.82" y1="94" x2="98.04" y2="106" stroke-width="8" opacity="0" />
-  <circle id="mol46:Atom:0" class="event" cx="201.96" cy="94" r="8" opacity="0" />
-  <circle id="mol46:Atom:1" class="event" cx="181.18" cy="106" r="8" opacity="0" />
-  <circle id="mol46:Atom:2" class="event" cx="181.18" cy="130" r="8" opacity="0" />
-  <circle id="mol46:Atom:3" class="event" cx="160.39" cy="94" r="8" opacity="0" />
-  <circle id="mol46:Atom:4" class="event" cx="160.39" cy="70" r="8" opacity="0" />
-  <circle id="mol46:Atom:5" class="event" cx="139.61" cy="106" r="8" opacity="0" />
-  <circle id="mol46:Atom:6" class="event" cx="118.82" cy="94" r="8" opacity="0" />
-  <circle id="mol46:Atom:7" class="event" cx="98.04" cy="106" r="8" opacity="0" />
+  <line id="mol56:Bond:1" class="event" x1="181.18" y1="106" x2="181.18" y2="130" stroke-width="8" opacity="0" />
+  <line id="mol56:Bond:0" class="event" x1="201.96" y1="94" x2="181.18" y2="106" stroke-width="8" opacity="0" />
+  <line id="mol56:Bond:2" class="event" x1="181.18" y1="106" x2="160.39" y2="94" stroke-width="8" opacity="0" />
+  <line id="mol56:Bond:3" class="event" x1="160.39" y1="94" x2="160.39" y2="70" stroke-width="8" opacity="0" />
+  <line id="mol56:Bond:4" class="event" x1="160.39" y1="94" x2="139.61" y2="106" stroke-width="8" opacity="0" />
+  <line id="mol56:Bond:5" class="event" x1="139.61" y1="106" x2="118.82" y2="94" stroke-width="8" opacity="0" />
+  <line id="mol56:Bond:6" class="event" x1="118.82" y1="94" x2="98.04" y2="106" stroke-width="8" opacity="0" />
+  <circle id="mol56:Atom:0" class="event" cx="201.96" cy="94" r="8" opacity="0" />
+  <circle id="mol56:Atom:1" class="event" cx="181.18" cy="106" r="8" opacity="0" />
+  <circle id="mol56:Atom:2" class="event" cx="181.18" cy="130" r="8" opacity="0" />
+  <circle id="mol56:Atom:3" class="event" cx="160.39" cy="94" r="8" opacity="0" />
+  <circle id="mol56:Atom:4" class="event" cx="160.39" cy="70" r="8" opacity="0" />
+  <circle id="mol56:Atom:5" class="event" cx="139.61" cy="106" r="8" opacity="0" />
+  <circle id="mol56:Atom:6" class="event" cx="118.82" cy="94" r="8" opacity="0" />
+  <circle id="mol56:Atom:7" class="event" cx="98.04" cy="106" r="8" opacity="0" />
 </svg>

@@ -1,0 +1,43 @@
+[
+  {
+    "id": "UFo2PBKuMFwg9546kd/A+eI/fYQ=",
+    "mf": "C5H12O",
+    "idCodeHash": "c2d65ca2318ceed5e9ac2ad49647cda2",
+    "idCode": "gGQ@@eJuT@@",
+    "file": "./05_C5H12O/01/index.json",
+    "title": "Exercise 1",
+    "selected": true
+  },
+  {
+    "id": "sP7kQGxnKm15FedluaPuUxIY6P0=",
+    "mf": "C5H12O",
+    "idCodeHash": "ee5d65258e91b8d8ff3e10fdb895220b",
+    "idCode": "gGQ@@eNuT@@",
+    "file": "./05_C5H12O/02/index.json",
+    "title": "Exercise 2"
+  },
+  {
+    "id": "7ewokiWAvxdCIrzMIRLrwEL4MvA=",
+    "mf": "C5H12O",
+    "idCodeHash": "f3c4b40ca0747e08f1feb15e23024599",
+    "idCode": "gGQ@@eMUT@@",
+    "file": "./05_C5H12O/03/index.json",
+    "title": "Exercise 3"
+  },
+  {
+    "id": "ui4c6jUGDVa6HfjcAioeDw9M1LY=",
+    "mf": "C5H12O",
+    "idCodeHash": "f258df6362b1bc94c85ccc627ae6c010",
+    "idCode": "gGQ@@eLuT@@",
+    "file": "./05_C5H12O/04/index.json",
+    "title": "Exercise 4"
+  },
+  {
+    "id": "PDgn6aDoBI/yd7bH3U6+RGyIbK4=",
+    "mf": "C5H12O",
+    "idCodeHash": "05d6431eecb9e4badbaa04b3fb415e35",
+    "idCode": "gGQ@@eOUT@@",
+    "file": "./05_C5H12O/05/index.json",
+    "title": "Exercise 5"
+  }
+]

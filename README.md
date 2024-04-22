@@ -14,6 +14,8 @@ Second-order effects are correctly evaluated so that you can have some informati
 
 Links to series
 
+- [C5H12O](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-predicted/toc_05_C5H12O.json)
+- [C5H11Cl](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-predicted/toc_07_C5H11Cl.json)
 - [C4H8O](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-predicted/toc_10_C4H8O.json)
 - [C5H10O](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-predicted/toc_20_C5H10O.json)
 - [C5H8O](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-predicted/toc_30_C5H8O.json)
