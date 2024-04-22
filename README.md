@@ -10,14 +10,14 @@ Second-order effects are correctly evaluated so that you can have some informati
 
 ## Link to all the exercises
 
-[https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-simple-predicted/toc.json](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-simple-predicted/toc.json)
+[https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-predicted/toc.json](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-predicted/toc.json)
 
 Links to series
 
-- [C4H8O](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-simple-predicted/toc_10_C4H8O.json)
-- [C5H10O](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-simple-predicted/toc_20_C5H10O.json)
-- [C5H8O](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-simple-predicted/toc_30_C5H8O.json)
-- [C6H12O2](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-simple-predicted/toc_40_C6H12O2.json)
-- [C6H12NO_Amides](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-simple-predicted/toc_50_C6H12NO_Amides.json)
-- [C9H12O_Aromatic](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-simple-predicted/toc_60_C9H12O_Aromatic.json)
-- [Mixed](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-simple-predicted/toc_90_Mixed.json)
+- [C4H8O](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-predicted/toc_10_C4H8O.json)
+- [C5H10O](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-predicted/toc_20_C5H10O.json)
+- [C5H8O](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-predicted/toc_30_C5H8O.json)
+- [C6H12O2](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-predicted/toc_40_C6H12O2.json)
+- [C6H12NO_Amides](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-predicted/toc_50_C6H12NO_Amides.json)
+- [C9H12O_Aromatic](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-predicted/toc_60_C9H12O_Aromatic.json)
+- [Mixed](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-predicted/toc_90_Mixed.json)
