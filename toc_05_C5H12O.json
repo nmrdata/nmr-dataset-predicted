@@ -1,9 +1,9 @@
 [
   {
-    "id": "UFo2PBKuMFwg9546kd/A+eI/fYQ=",
+    "id": "Bnvj3wD2YkNVensuwJ9tCQSEoao=",
     "mf": "C5H12O",
-    "idCodeHash": "c2d65ca2318ceed5e9ac2ad49647cda2",
-    "idCode": "gGQ@@eJuT@@",
+    "idCodeHash": "f258df6362b1bc94c85ccc627ae6c010",
+    "idCode": "gGQ@@eLuT@@",
     "file": "./05_C5H12O/01/index.json",
     "title": "Exercise 1",
     "selected": true
@@ -25,19 +25,11 @@
     "title": "Exercise 3"
   },
   {
-    "id": "ui4c6jUGDVa6HfjcAioeDw9M1LY=",
+    "id": "+gZm8XsPQKdzTQFI566YcQtM+kE=",
     "mf": "C5H12O",
-    "idCodeHash": "f258df6362b1bc94c85ccc627ae6c010",
-    "idCode": "gGQ@@eLuT@@",
+    "idCodeHash": "c2d65ca2318ceed5e9ac2ad49647cda2",
+    "idCode": "gGQ@@eJuT@@",
     "file": "./05_C5H12O/04/index.json",
     "title": "Exercise 4"
-  },
-  {
-    "id": "PDgn6aDoBI/yd7bH3U6+RGyIbK4=",
-    "mf": "C5H12O",
-    "idCodeHash": "05d6431eecb9e4badbaa04b3fb415e35",
-    "idCode": "gGQ@@eOUT@@",
-    "file": "./05_C5H12O/05/index.json",
-    "title": "Exercise 5"
   }
 ]

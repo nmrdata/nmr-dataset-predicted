@@ -1,5 +1,5 @@
-<svg id="mol25" xmlns="http://www.w3.org/2000/svg" version="1.1" width="84px" height="56px" viewBox="105 72 84 56">
-  <style> text {font-family: sans-serif;} #mol25 { pointer-events:none; } #mol25 .event  { pointer-events:all; } line { stroke-linecap:round; } polygon { stroke-linejoin:round; } </style>
+<svg id="mol23" xmlns="http://www.w3.org/2000/svg" version="1.1" width="84px" height="56px" viewBox="105 72 84 56">
+  <style> text {font-family: sans-serif;} #mol23 { pointer-events:none; } #mol23 .event  { pointer-events:all; } line { stroke-linecap:round; } polygon { stroke-linejoin:round; } </style>
   <text x="113.38" y="104.67" stroke="none" font-size="14" fill="rgb(255,13,13)">O</text>
   <line x1="138.71" y1="86.44" x2="124.37" y2="94.72" stroke="rgb(0,0,0)" stroke-width="1.44" />
   <line x1="138.29" y1="90.84" x2="126.17" y2="97.84" stroke="rgb(0,0,0)" stroke-width="1.44" />
@@ -7,15 +7,15 @@
   <line x1="160.39" y1="100" x2="138.71" y2="86.44" stroke="rgb(0,0,0)" stroke-width="1.44" />
   <line x1="160.39" y1="100" x2="181.18" y2="112" stroke="rgb(0,0,0)" stroke-width="1.44" />
   <line x1="160.39" y1="100" x2="148.39" y2="120.78" stroke="rgb(0,0,0)" stroke-width="1.44" />
-  <line id="mol25:Bond:2" class="event" x1="139.61" y1="88" x2="118.82" y2="100" stroke-width="8" opacity="0" />
-  <line id="mol25:Bond:0" class="event" x1="172.39" y1="79.22" x2="160.39" y2="100" stroke-width="8" opacity="0" />
-  <line id="mol25:Bond:1" class="event" x1="160.39" y1="100" x2="139.61" y2="88" stroke-width="8" opacity="0" />
-  <line id="mol25:Bond:3" class="event" x1="160.39" y1="100" x2="181.18" y2="112" stroke-width="8" opacity="0" />
-  <line id="mol25:Bond:4" class="event" x1="160.39" y1="100" x2="148.39" y2="120.78" stroke-width="8" opacity="0" />
-  <circle id="mol25:Atom:0" class="event" cx="172.39" cy="79.22" r="8" opacity="0" />
-  <circle id="mol25:Atom:1" class="event" cx="160.39" cy="100" r="8" opacity="0" />
-  <circle id="mol25:Atom:2" class="event" cx="139.61" cy="88" r="8" opacity="0" />
-  <circle id="mol25:Atom:3" class="event" cx="118.82" cy="100" r="8" opacity="0" />
-  <circle id="mol25:Atom:4" class="event" cx="181.18" cy="112" r="8" opacity="0" />
-  <circle id="mol25:Atom:5" class="event" cx="148.39" cy="120.78" r="8" opacity="0" />
+  <line id="mol23:Bond:2" class="event" x1="139.61" y1="88" x2="118.82" y2="100" stroke-width="8" opacity="0" />
+  <line id="mol23:Bond:0" class="event" x1="172.39" y1="79.22" x2="160.39" y2="100" stroke-width="8" opacity="0" />
+  <line id="mol23:Bond:1" class="event" x1="160.39" y1="100" x2="139.61" y2="88" stroke-width="8" opacity="0" />
+  <line id="mol23:Bond:3" class="event" x1="160.39" y1="100" x2="181.18" y2="112" stroke-width="8" opacity="0" />
+  <line id="mol23:Bond:4" class="event" x1="160.39" y1="100" x2="148.39" y2="120.78" stroke-width="8" opacity="0" />
+  <circle id="mol23:Atom:0" class="event" cx="172.39" cy="79.22" r="8" opacity="0" />
+  <circle id="mol23:Atom:1" class="event" cx="160.39" cy="100" r="8" opacity="0" />
+  <circle id="mol23:Atom:2" class="event" cx="139.61" cy="88" r="8" opacity="0" />
+  <circle id="mol23:Atom:3" class="event" cx="118.82" cy="100" r="8" opacity="0" />
+  <circle id="mol23:Atom:4" class="event" cx="181.18" cy="112" r="8" opacity="0" />
+  <circle id="mol23:Atom:5" class="event" cx="148.39" cy="120.78" r="8" opacity="0" />
 </svg>
