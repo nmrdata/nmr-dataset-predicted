@@ -6,7 +6,7 @@ Because the predictor currently does not accurately predict labile protons, thes
 
 Second-order effects are correctly evaluated so that you can have some information, based on the roof-effect, about some couplings.
 
-<-- LINKS -->
+You can find the correction of all the exercises [here](https://nmrdata.github.io/nmr-dataset-predicted/correction).
 
 ## Link to all the exercises
 
