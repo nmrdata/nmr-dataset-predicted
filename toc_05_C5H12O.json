@@ -3,33 +3,33 @@
     "id": "Bnvj3wD2YkNVensuwJ9tCQSEoao=",
     "mf": "C5H12O",
     "idCodeHash": "f258df6362b1bc94c85ccc627ae6c010",
-    "idCode": "gGQ@@eLuT@@",
     "file": "./05_C5H12O/01/index.json",
     "title": "Exercise 1",
-    "selected": true
+    "selected": true,
+    "idCode": "gGQ@@eLuT@@"
   },
   {
     "id": "sP7kQGxnKm15FedluaPuUxIY6P0=",
     "mf": "C5H12O",
     "idCodeHash": "ee5d65258e91b8d8ff3e10fdb895220b",
-    "idCode": "gGQ@@eNuT@@",
     "file": "./05_C5H12O/02/index.json",
-    "title": "Exercise 2"
+    "title": "Exercise 2",
+    "idCode": "gGQ@@eNuT@@"
   },
   {
     "id": "7ewokiWAvxdCIrzMIRLrwEL4MvA=",
     "mf": "C5H12O",
     "idCodeHash": "f3c4b40ca0747e08f1feb15e23024599",
-    "idCode": "gGQ@@eMUT@@",
     "file": "./05_C5H12O/03/index.json",
-    "title": "Exercise 3"
+    "title": "Exercise 3",
+    "idCode": "gGQ@@eMUT@@"
   },
   {
     "id": "+gZm8XsPQKdzTQFI566YcQtM+kE=",
     "mf": "C5H12O",
     "idCodeHash": "c2d65ca2318ceed5e9ac2ad49647cda2",
-    "idCode": "gGQ@@eJuT@@",
     "file": "./05_C5H12O/04/index.json",
-    "title": "Exercise 4"
+    "title": "Exercise 4",
+    "idCode": "gGQ@@eJuT@@"
   }
 ]

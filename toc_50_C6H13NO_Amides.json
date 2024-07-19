@@ -3,49 +3,49 @@
     "id": "gddQtOiB5WFisyXOnMO+PiPSsAY=",
     "mf": "C6H13NO",
     "idCodeHash": "141e727b467f89fe7c0b8f1e4c87a7f0",
-    "idCode": "dazH@DAIf}jj@@",
-    "file": "./50_C6H12NO_Amides/01/index.json",
+    "file": "./50_C6H13NO_Amides/01/index.json",
     "title": "Exercise 54",
+    "idCode": "dazH@DAIf}jj@@",
     "selected": true
   },
   {
     "id": "SClZYqc28XOQxVMZ8CWP/ZP3GrE=",
     "mf": "C6H13NO",
     "idCodeHash": "bf2a0672288cc230563cc7a5da0e9aad",
-    "idCode": "dazH@DAIfyjj@@",
-    "file": "./50_C6H12NO_Amides/02/index.json",
-    "title": "Exercise 55"
+    "file": "./50_C6H13NO_Amides/02/index.json",
+    "title": "Exercise 55",
+    "idCode": "dazH@DAIfyjj@@"
   },
   {
     "id": "2IaJQNdJB5ScICMRputdtGFEGzs=",
     "mf": "C6H13NO",
     "idCodeHash": "af28f8834b7a88b025be397bba17771f",
-    "idCode": "dazH@DCHhhbuU@@",
-    "file": "./50_C6H12NO_Amides/03/index.json",
-    "title": "Exercise 56"
+    "file": "./50_C6H13NO_Amides/03/index.json",
+    "title": "Exercise 56",
+    "idCode": "dazH@DCHhhbuU@@"
   },
   {
     "id": "AM0rotygJaDSCvy/CPcg7R97a+E=",
     "mf": "C6H13NO",
     "idCodeHash": "81fd785fd942608969110ae80480e74e",
-    "idCode": "dazH@DAIfujj@@",
-    "file": "./50_C6H12NO_Amides/04/index.json",
-    "title": "Exercise 57"
+    "file": "./50_C6H13NO_Amides/04/index.json",
+    "title": "Exercise 57",
+    "idCode": "dazH@DAIfujj@@"
   },
   {
     "id": "YJhJLHVUqsszhIaqIDZsQATInrQ=",
     "mf": "C6H13NO",
     "idCodeHash": "ad596d00965f6ab046a248f1a00a7894",
-    "idCode": "dazH@DAIfYjj@@",
-    "file": "./50_C6H12NO_Amides/05/index.json",
-    "title": "Exercise 58"
+    "file": "./50_C6H13NO_Amides/05/index.json",
+    "title": "Exercise 58",
+    "idCode": "dazH@DAIfYjj@@"
   },
   {
     "id": "TX0Lbik2mFiB00e1ArpXBhBDtP8=",
     "mf": "C6H13NO",
     "idCodeHash": "d7bd3c403aca4aed4b1b1cffb7465a31",
-    "idCode": "dazH@DAIfUjj@@",
-    "file": "./50_C6H12NO_Amides/06/index.json",
-    "title": "Exercise 59"
+    "file": "./50_C6H13NO_Amides/06/index.json",
+    "title": "Exercise 59",
+    "idCode": "dazH@DAIfUjj@@"
   }
 ]

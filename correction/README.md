@@ -82,16 +82,16 @@
 | 12 | ![12](./40_C6H12O2/12.svg) |
 | 13 | ![13](./40_C6H12O2/13.svg) |
 
-## 50_C6H12NO_Amides
+## 50_C6H13NO_Amides
 
 | Exercise | Correction |
 |----------|------------|
-| 01 | ![01](./50_C6H12NO_Amides/01.svg) |
-| 02 | ![02](./50_C6H12NO_Amides/02.svg) |
-| 03 | ![03](./50_C6H12NO_Amides/03.svg) |
-| 04 | ![04](./50_C6H12NO_Amides/04.svg) |
-| 05 | ![05](./50_C6H12NO_Amides/05.svg) |
-| 06 | ![06](./50_C6H12NO_Amides/06.svg) |
+| 01 | ![01](./50_C6H13NO_Amides/01.svg) |
+| 02 | ![02](./50_C6H13NO_Amides/02.svg) |
+| 03 | ![03](./50_C6H13NO_Amides/03.svg) |
+| 04 | ![04](./50_C6H13NO_Amides/04.svg) |
+| 05 | ![05](./50_C6H13NO_Amides/05.svg) |
+| 06 | ![06](./50_C6H13NO_Amides/06.svg) |
 
 ## 60_C9H12O_Aromatic
 

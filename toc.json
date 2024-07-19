@@ -7,34 +7,34 @@
         "id": "Bnvj3wD2YkNVensuwJ9tCQSEoao=",
         "mf": "C5H12O",
         "idCodeHash": "f258df6362b1bc94c85ccc627ae6c010",
-        "idCode": "gGQ@@eLuT@@",
         "file": "./05_C5H12O/01/index.json",
         "title": "Exercise 1",
-        "selected": true
+        "selected": true,
+        "idCode": "gGQ@@eLuT@@"
       },
       {
         "id": "sP7kQGxnKm15FedluaPuUxIY6P0=",
         "mf": "C5H12O",
         "idCodeHash": "ee5d65258e91b8d8ff3e10fdb895220b",
-        "idCode": "gGQ@@eNuT@@",
         "file": "./05_C5H12O/02/index.json",
-        "title": "Exercise 2"
+        "title": "Exercise 2",
+        "idCode": "gGQ@@eNuT@@"
       },
       {
         "id": "7ewokiWAvxdCIrzMIRLrwEL4MvA=",
         "mf": "C5H12O",
         "idCodeHash": "f3c4b40ca0747e08f1feb15e23024599",
-        "idCode": "gGQ@@eMUT@@",
         "file": "./05_C5H12O/03/index.json",
-        "title": "Exercise 3"
+        "title": "Exercise 3",
+        "idCode": "gGQ@@eMUT@@"
       },
       {
         "id": "+gZm8XsPQKdzTQFI566YcQtM+kE=",
         "mf": "C5H12O",
         "idCodeHash": "c2d65ca2318ceed5e9ac2ad49647cda2",
-        "idCode": "gGQ@@eJuT@@",
         "file": "./05_C5H12O/04/index.json",
-        "title": "Exercise 4"
+        "title": "Exercise 4",
+        "idCode": "gGQ@@eJuT@@"
       }
     ]
   },
@@ -46,33 +46,33 @@
         "id": "0hP1cQ613WC4/1g+ddTApbgmaJ4=",
         "mf": "C5H11Cl",
         "idCodeHash": "07cb3666cc4438a4d21bde85916022b5",
-        "idCode": "gGPHADIKUU@@",
         "file": "./07_C5H11Cl/01/index.json",
-        "title": "Exercise 5"
+        "title": "Exercise 5",
+        "idCode": "gGPHADIKUU@@"
       },
       {
         "id": "U3qfjOSjEg7uf2gQ0J77YE0Bl04=",
         "mf": "C5H11Cl",
         "idCodeHash": "a5861569ae492ddb98466641bac311ff",
-        "idCode": "gGPHADIMMU@@",
         "file": "./07_C5H11Cl/02/index.json",
-        "title": "Exercise 6"
+        "title": "Exercise 6",
+        "idCode": "gGPHADIMMU@@"
       },
       {
         "id": "0DZWsPbpThPqdsGYpAvw8G9pMXg=",
         "mf": "C5H11Cl",
         "idCodeHash": "2f9998bbba59357ccd7f9610ad2501b1",
-        "idCode": "gGPHADILmU@@",
         "file": "./07_C5H11Cl/03/index.json",
-        "title": "Exercise 7"
+        "title": "Exercise 7",
+        "idCode": "gGPHADILmU@@"
       },
       {
         "id": "Z/YIrAhH6zUdw2A2A5NS90TmPi0=",
         "mf": "C5H11Cl",
         "idCodeHash": "ac1658d3de579048cdb9ba1cc6b6fa4d",
-        "idCode": "gGPHADIJuU@@",
         "file": "./07_C5H11Cl/05/index.json",
-        "title": "Exercise 8"
+        "title": "Exercise 8",
+        "idCode": "gGPHADIJuU@@"
       }
     ]
   },
@@ -84,57 +84,57 @@
         "id": "a6FKCpFmeOjPAofD6EknnU7l4JI=",
         "mf": "C4H8O",
         "idCodeHash": "21dcc0027d441801e362cec51f90e9b9",
-        "idCode": "gJQ@@eKS@@",
         "file": "./10_C4H8O/01/index.json",
-        "title": "Exercise 9"
+        "title": "Exercise 9",
+        "idCode": "gJQ@@eKS@@"
       },
       {
         "id": "iD8kBXZ+FdXex4Yd05MN1D5WUWY=",
         "mf": "C4H8O",
         "idCodeHash": "79bb5d0b949a891b0fd0325d28874a27",
-        "idCode": "gJQ@@dlu@@",
         "file": "./10_C4H8O/02/index.json",
-        "title": "Exercise 10"
+        "title": "Exercise 10",
+        "idCode": "gJQ@@dlu@@"
       },
       {
         "id": "zZMqqjq+NnNfbWFIKyRrU9GFJFo=",
         "mf": "C4H8O",
         "idCodeHash": "c24527097aa6fc9f937412dd192802a7",
-        "idCode": "gJQ@@dru@@",
         "file": "./10_C4H8O/03/index.json",
-        "title": "Exercise 11"
+        "title": "Exercise 11",
+        "idCode": "gJQ@@dru@@"
       },
       {
         "id": "PAbkGh07UGip/0W+4MVJeITENPg=",
         "mf": "C4H8O",
         "idCodeHash": "f2d2579b1e35c25416bb0d2904bbbe00",
-        "idCode": "gJQ@@eOT`@",
         "file": "./10_C4H8O/04/index.json",
-        "title": "Exercise 12"
+        "title": "Exercise 12",
+        "idCode": "gJQ@@eOT`@"
       },
       {
         "id": "aXuXm6muFkBgJXeW35T1Cw/flHc=",
         "mf": "C4H8O",
         "idCodeHash": "d2bd4cfeb37d0155143a7b31f6dc1e25",
-        "idCode": "gJQ@@eMS@@",
         "file": "./10_C4H8O/05/index.json",
-        "title": "Exercise 13"
+        "title": "Exercise 13",
+        "idCode": "gJQ@@eMS@@"
       },
       {
         "id": "7avt4TMHjM4SFaw9IShwK/edxUk=",
         "mf": "C4H8O",
         "idCodeHash": "825a50192457abeee4879f2bb34a0464",
-        "idCode": "gJQ@@eOSBJ@",
         "file": "./10_C4H8O/06/index.json",
-        "title": "Exercise 14"
+        "title": "Exercise 14",
+        "idCode": "gJQ@@eOSBJ@"
       },
       {
         "id": "GgzbsYVX7cLGjRqIcuaDmoxg3es=",
         "mf": "C4H8O",
         "idCodeHash": "97d4d1fe44e57f0112e14c69bc3249e6",
-        "idCode": "gJQ@@dju@@",
         "file": "./10_C4H8O/07/index.json",
-        "title": "Exercise 15"
+        "title": "Exercise 15",
+        "idCode": "gJQ@@dju@@"
       }
     ]
   },
@@ -146,105 +146,105 @@
         "id": "oHPaxa2hEPQthoDA3UojSsBxhHk=",
         "mf": "C5H10O",
         "idCodeHash": "b22e463035a3b551c991db1be7ccb9e7",
-        "idCode": "gGQ@@dkMT@@",
         "file": "./20_C5H10O/01/index.json",
-        "title": "Exercise 16"
+        "title": "Exercise 16",
+        "idCode": "gGQ@@dkMT@@"
       },
       {
         "id": "t4/5x90UBEA2wVCOhr/Hf9vqxAU=",
         "mf": "C5H10O",
         "idCodeHash": "50ffeab1885cdb4a511633aee310f86c",
-        "idCode": "gGQ@@dsMT@@",
         "file": "./20_C5H10O/02/index.json",
-        "title": "Exercise 17"
+        "title": "Exercise 17",
+        "idCode": "gGQ@@dsMT@@"
       },
       {
         "id": "JbHuYaGyR+41viy2LG4dIZlrT4I=",
         "mf": "C5H10O",
         "idCodeHash": "0e80ebd2a9a2eb6836a2ee31fab99854",
-        "idCode": "gGQ@@dsmT@@",
         "file": "./20_C5H10O/05/index.json",
-        "title": "Exercise 18"
+        "title": "Exercise 18",
+        "idCode": "gGQ@@dsmT@@"
       },
       {
         "id": "36i7bV4TqyxIiaxHXCZWsLrZnqs=",
         "mf": "C5H10O",
         "idCodeHash": "c8b2d2c049b5799cf9fafbb494119524",
-        "idCode": "gGQ@@eOUL@@",
         "file": "./20_C5H10O/07/index.json",
-        "title": "Exercise 19"
+        "title": "Exercise 19",
+        "idCode": "gGQ@@eOUL@@"
       },
       {
         "id": "coCj2l34vspZU1aKsrvtsz7aihE=",
         "mf": "C5H10O",
         "idCodeHash": "3c63e5dfd22c8f75fded0b24747ae79d",
-        "idCode": "gGQ@@eLtt@@",
         "file": "./20_C5H10O/09/index.json",
-        "title": "Exercise 20"
+        "title": "Exercise 20",
+        "idCode": "gGQ@@eLtt@@"
       },
       {
         "id": "0g3c524TquAjcVxjGAWXhXzUT5g=",
         "mf": "C5H10O",
         "idCodeHash": "b03dde0daab1beb8390a7cce73abbee7",
-        "idCode": "gGQ@@djmT@@",
         "file": "./20_C5H10O/10/index.json",
-        "title": "Exercise 21"
+        "title": "Exercise 21",
+        "idCode": "gGQ@@djmT@@"
       },
       {
         "id": "ZAdPLDaP+7qzI/6iU53vv8J3J7I=",
         "mf": "C5H10O",
         "idCodeHash": "26463ddb44169b2a9eaaf085ab1bb16d",
-        "idCode": "gGQ@@eMuR@@",
         "file": "./20_C5H10O/11/index.json",
-        "title": "Exercise 22"
+        "title": "Exercise 22",
+        "idCode": "gGQ@@eMuR@@"
       },
       {
         "id": "ByV3iR9Xos5efZNmyw5vntHhNxU=",
         "mf": "C5H10O",
         "idCodeHash": "ff3f0be7ce0c8220824442a052293c7f",
-        "idCode": "gGQ@@dmMT@@",
         "file": "./20_C5H10O/12/index.json",
-        "title": "Exercise 23"
+        "title": "Exercise 23",
+        "idCode": "gGQ@@dmMT@@"
       },
       {
         "id": "e4Hulmq2ehvTNBKshtfxwg/hGY4=",
         "mf": "C5H10O",
         "idCodeHash": "ba7b3bb15ed94d4a4efb520012195898",
-        "idCode": "gGQ@@eNttHh",
         "file": "./20_C5H10O/14/index.json",
-        "title": "Exercise 24"
+        "title": "Exercise 24",
+        "idCode": "gGQ@@eNttHh"
       },
       {
         "id": "8V2d01gigJDnSDz/zhtBAdvLRyU=",
         "mf": "C5H10O",
         "idCodeHash": "09fb31fc3d0ef549a9ec826da3ac4a7e",
-        "idCode": "gGQ@@drmT@@",
         "file": "./20_C5H10O/16/index.json",
-        "title": "Exercise 25"
+        "title": "Exercise 25",
+        "idCode": "gGQ@@drmT@@"
       },
       {
         "id": "xv7lASKasIRY/YNF6VZ8kp1PH78=",
         "mf": "C5H10O",
         "idCodeHash": "675bc54346a87137045d13d66d181efe",
-        "idCode": "gGQ@@eKTt@@",
         "file": "./20_C5H10O/17/index.json",
-        "title": "Exercise 26"
+        "title": "Exercise 26",
+        "idCode": "gGQ@@eKTt@@"
       },
       {
         "id": "lpJvwWdYG1lDsnQNIbB1WgQQQA8=",
         "mf": "C5H10O",
         "idCodeHash": "b1acabc5f44c4016beca3b27ef7368c3",
-        "idCode": "gGQ@@eJuR@@",
         "file": "./20_C5H10O/18/index.json",
-        "title": "Exercise 27"
+        "title": "Exercise 27",
+        "idCode": "gGQ@@eJuR@@"
       },
       {
         "id": "7i7XESHJSu5ajqB6t3pTbXnw9K8=",
         "mf": "C5H10O",
         "idCodeHash": "9377b83ccb2a4483e783372b629a5d99",
-        "idCode": "gGQ@Adbaih@",
         "file": "./20_C5H10O/19/index.json",
-        "title": "Exercise 28"
+        "title": "Exercise 28",
+        "idCode": "gGQ@Adbaih@"
       }
     ]
   },
@@ -256,113 +256,113 @@
         "id": "qHX/kfNrh1okWLDkXFVcYqTFReE=",
         "mf": "C5H8O",
         "idCodeHash": "e2af7dc2b467ec66a59b37ebd49043e7",
-        "idCode": "gGQ@@djltHh",
         "file": "./30_C5H8O/01/index.json",
-        "title": "Exercise 29"
+        "title": "Exercise 29",
+        "idCode": "gGQ@@djltHh"
       },
       {
         "id": "SALJLbjb/C1Y0txvdCU4dXTf+aQ=",
         "mf": "C5H8O",
         "idCodeHash": "c86e1ec30659ecc9cbfd5c9901f02e28",
-        "idCode": "gGQ@@dkML@@",
         "file": "./30_C5H8O/02/index.json",
-        "title": "Exercise 30"
+        "title": "Exercise 30",
+        "idCode": "gGQ@@dkML@@"
       },
       {
         "id": "kX1vEZ0Qf0qWyUSQt4wuY3SVvpg=",
         "mf": "C5H8O",
         "idCodeHash": "bade898ba5e32e68bbe03126861f32e4",
-        "idCode": "gGQ@@eNtrHh",
         "file": "./30_C5H8O/03/index.json",
-        "title": "Exercise 31"
+        "title": "Exercise 31",
+        "idCode": "gGQ@@eNtrHh"
       },
       {
         "id": "YuQ5KkP0EmxxCSOyKjWWEezJYf0=",
         "mf": "C5H8O",
         "idCodeHash": "c5ac65f1b8fc436d2d8636370e9429e7",
-        "idCode": "gGQ@@dsmLIh",
         "file": "./30_C5H8O/04/index.json",
-        "title": "Exercise 32"
+        "title": "Exercise 32",
+        "idCode": "gGQ@@dsmLIh"
       },
       {
         "id": "RNnKtjis1Wce8JZfSGtGMBuN0os=",
         "mf": "C5H8O",
         "idCodeHash": "2ca29014b2e4331061cfb8c3c0c220af",
-        "idCode": "gGQ@@eKtr@@",
         "file": "./30_C5H8O/05/index.json",
-        "title": "Exercise 33"
+        "title": "Exercise 33",
+        "idCode": "gGQ@@eKtr@@"
       },
       {
         "id": "dMBlXgHbIAZ5PiUy3Bfy6sH+MWo=",
         "mf": "C5H8O",
         "idCodeHash": "b2c9cef8b65f965666afcd3bf48970fc",
-        "idCode": "gGQ@@djmLIh",
         "file": "./30_C5H8O/06/index.json",
-        "title": "Exercise 34"
+        "title": "Exercise 34",
+        "idCode": "gGQ@@djmLIh"
       },
       {
         "id": "SeIWebmaNaHCxDDWXSL9/bkreQo=",
         "mf": "C5H8O",
         "idCodeHash": "ba5fd69dd0754090f00d5c2655fdbbe8",
-        "idCode": "gGQ@@dkLt@@",
         "file": "./30_C5H8O/07/index.json",
-        "title": "Exercise 35"
+        "title": "Exercise 35",
+        "idCode": "gGQ@@dkLt@@"
       },
       {
         "id": "2ZaC9pWsgKXJ4fD3iQcs50b2QAQ=",
         "mf": "C5H8O",
         "idCodeHash": "6c3ab4bec1c81a8f9d57b919ed28a9da",
-        "idCode": "gGQ@@dsmR@@",
         "file": "./30_C5H8O/08/index.json",
-        "title": "Exercise 36"
+        "title": "Exercise 36",
+        "idCode": "gGQ@@dsmR@@"
       },
       {
         "id": "wT7gUASgFF98hhdArrdk5F1nqHw=",
         "mf": "C5H8O",
         "idCodeHash": "1e4680f73df24696c62e88a959557d8f",
-        "idCode": "gGQ@@eJtlHh",
         "file": "./30_C5H8O/09/index.json",
-        "title": "Exercise 37"
+        "title": "Exercise 37",
+        "idCode": "gGQ@@eJtlHh"
       },
       {
         "id": "l2RbLt7aeL2JDoKKG4FgBcHqA1k=",
         "mf": "C5H8O",
         "idCodeHash": "6235a4ca958124d94036df53a16b46c9",
-        "idCode": "gGQ@@dmlt@@",
         "file": "./30_C5H8O/10/index.json",
-        "title": "Exercise 38"
+        "title": "Exercise 38",
+        "idCode": "gGQ@@dmlt@@"
       },
       {
         "id": "3kcTcoYd0UFlbWPvJKQ5Ye2cHmk=",
         "mf": "C5H8O",
         "idCodeHash": "f06c53dface3992e92fd2ab141990aba",
-        "idCode": "gGQ@@drmL@@",
         "file": "./30_C5H8O/11/index.json",
-        "title": "Exercise 39"
+        "title": "Exercise 39",
+        "idCode": "gGQ@@drmL@@"
       },
       {
         "id": "9WR/XRP1yg/LkK5ce7pQRyGrzWs=",
         "mf": "C5H8O",
         "idCodeHash": "ad4e57c84996508acc0ee75a0c2d4f89",
-        "idCode": "gGQ@@djmR@@",
         "file": "./30_C5H8O/12/index.json",
-        "title": "Exercise 40"
+        "title": "Exercise 40",
+        "idCode": "gGQ@@djmR@@"
       },
       {
         "id": "lHJv+MuUm3a6WtKW8j4noykoBms=",
         "mf": "C5H8O",
         "idCodeHash": "eae824471b2dabe4592e2c7c024a5a09",
-        "idCode": "gGQ@@dsML@@",
         "file": "./30_C5H8O/13/index.json",
-        "title": "Exercise 41"
+        "title": "Exercise 41",
+        "idCode": "gGQ@@dsML@@"
       },
       {
         "id": "OAg938LYfcm6rF9eZfLlDuTf0b8=",
         "mf": "C5H8O",
         "idCodeHash": "b3d24960740b891d4342eef17ffdd4d3",
-        "idCode": "gGQ@@eLtr@@",
         "file": "./30_C5H8O/14/index.json",
-        "title": "Exercise 42"
+        "title": "Exercise 42",
+        "idCode": "gGQ@@eLtr@@"
       }
     ]
   },
@@ -374,143 +374,143 @@
         "id": "JZ428vj7baK+0lWUc2KTyM7Ly00=",
         "mf": "C6H12O2",
         "idCodeHash": "49833f4ce45e7014209a881aa22cec32",
-        "idCode": "daxD@@YIUUjj@@",
         "file": "./40_C6H12O2/01/index.json",
-        "title": "Exercise 43"
+        "title": "Exercise 43",
+        "idCode": "daxD@@YIUUjj@@"
       },
       {
         "id": "3/dbiQNGBDHj5KkOGzL7dmVQcc8=",
         "mf": "C6H12O2",
         "idCodeHash": "fde481711ec0c129fd60c646f57e3355",
-        "idCode": "daxD@@QIgUjj@@",
         "file": "./40_C6H12O2/02/index.json",
-        "title": "Exercise 44"
+        "title": "Exercise 44",
+        "idCode": "daxD@@QIgUjj@@"
       },
       {
         "id": "8wTruVMWMbsS2flY9hNyDwW8xFo=",
         "mf": "C6H12O2",
         "idCodeHash": "03031d202c85deee56b41e364a221e8a",
-        "idCode": "daxD@@IIfmjj@@",
         "file": "./40_C6H12O2/03/index.json",
-        "title": "Exercise 45"
+        "title": "Exercise 45",
+        "idCode": "daxD@@IIfmjj@@"
       },
       {
         "id": "ikatgjTIImGHm5g0xFJY3samCuc=",
         "mf": "C6H12O2",
         "idCodeHash": "3a9c95ad92b35153b87735bceb71e819",
-        "idCode": "daxD@@QIgijj@@",
         "file": "./40_C6H12O2/04/index.json",
-        "title": "Exercise 46"
+        "title": "Exercise 46",
+        "idCode": "daxD@@QIgijj@@"
       },
       {
         "id": "zQ4WGoLxlZ+SUAT6HbSVr8wYFJ0=",
         "mf": "C6H12O2",
         "idCodeHash": "6dc346ec0c441efa9fa4d77f698603a8",
-        "idCode": "daxD@@QIUUjj@@",
         "file": "./40_C6H12O2/06/index.json",
-        "title": "Exercise 47"
+        "title": "Exercise 47",
+        "idCode": "daxD@@QIUUjj@@"
       },
       {
         "id": "rRL592PKdnBl4E8c83tD8GSeOnc=",
         "mf": "C6H12O2",
         "idCodeHash": "7fb9a647a47e194272eba32117c60901",
-        "idCode": "daxD@@IIe]jj@@",
         "file": "./40_C6H12O2/08/index.json",
-        "title": "Exercise 48"
+        "title": "Exercise 48",
+        "idCode": "daxD@@IIe]jj@@"
       },
       {
         "id": "b7GzQFn6pxa3WwLy87dG5tUIuQI=",
         "mf": "C6H12O2",
         "idCodeHash": "15e0e7f0992c7cfadc128928ade66feb",
-        "idCode": "daxD@@IIgUjj@@",
         "file": "./40_C6H12O2/09/index.json",
-        "title": "Exercise 49"
+        "title": "Exercise 49",
+        "idCode": "daxD@@IIgUjj@@"
       },
       {
         "id": "ShcTEryqYICTKHVrMC5Xp5GSNOI=",
         "mf": "C6H12O2",
         "idCodeHash": "b10c5f3a0936a241f6c8a88a9514abcc",
-        "idCode": "daxD@@IIUUjj@@",
         "file": "./40_C6H12O2/10/index.json",
-        "title": "Exercise 50"
+        "title": "Exercise 50",
+        "idCode": "daxD@@IIUUjj@@"
       },
       {
         "id": "a8myPyRDIYDwA+FhftYYun4gF5s=",
         "mf": "C6H12O2",
         "idCodeHash": "5885bbd4973acb1348a7b8b9d2bb6b51",
-        "idCode": "daxD@@iJWVfj@@",
         "file": "./40_C6H12O2/11/index.json",
-        "title": "Exercise 51"
+        "title": "Exercise 51",
+        "idCode": "daxD@@iJWVfj@@"
       },
       {
         "id": "padVW1C4U8+NndUl8PZaZmmnLl4=",
         "mf": "C6H12O2",
         "idCodeHash": "02f5fc3c2a5126fe74d95150d7d3a5e4",
-        "idCode": "daxD@@iIUUjj@@",
         "file": "./40_C6H12O2/12/index.json",
-        "title": "Exercise 52"
+        "title": "Exercise 52",
+        "idCode": "daxD@@iIUUjj@@"
       },
       {
         "id": "Zak897No51sNRUdMTyZ7pMej9n4=",
         "mf": "C6H12O2",
         "idCodeHash": "52d11858b53976421acd10f859e910dc",
-        "idCode": "daxD@@QIeujj@@",
         "file": "./40_C6H12O2/13/index.json",
-        "title": "Exercise 53"
+        "title": "Exercise 53",
+        "idCode": "daxD@@QIeujj@@"
       }
     ]
   },
   {
-    "groupName": "C6H12NO_Amides",
-    "folderName": "50_C6H12NO_Amides",
+    "groupName": "C6H13NO_Amides",
+    "folderName": "50_C6H13NO_Amides",
     "children": [
       {
         "id": "gddQtOiB5WFisyXOnMO+PiPSsAY=",
         "mf": "C6H13NO",
         "idCodeHash": "141e727b467f89fe7c0b8f1e4c87a7f0",
-        "idCode": "dazH@DAIf}jj@@",
-        "file": "./50_C6H12NO_Amides/01/index.json",
-        "title": "Exercise 54"
+        "file": "./50_C6H13NO_Amides/01/index.json",
+        "title": "Exercise 54",
+        "idCode": "dazH@DAIf}jj@@"
       },
       {
         "id": "SClZYqc28XOQxVMZ8CWP/ZP3GrE=",
         "mf": "C6H13NO",
         "idCodeHash": "bf2a0672288cc230563cc7a5da0e9aad",
-        "idCode": "dazH@DAIfyjj@@",
-        "file": "./50_C6H12NO_Amides/02/index.json",
-        "title": "Exercise 55"
+        "file": "./50_C6H13NO_Amides/02/index.json",
+        "title": "Exercise 55",
+        "idCode": "dazH@DAIfyjj@@"
       },
       {
         "id": "2IaJQNdJB5ScICMRputdtGFEGzs=",
         "mf": "C6H13NO",
         "idCodeHash": "af28f8834b7a88b025be397bba17771f",
-        "idCode": "dazH@DCHhhbuU@@",
-        "file": "./50_C6H12NO_Amides/03/index.json",
-        "title": "Exercise 56"
+        "file": "./50_C6H13NO_Amides/03/index.json",
+        "title": "Exercise 56",
+        "idCode": "dazH@DCHhhbuU@@"
       },
       {
         "id": "AM0rotygJaDSCvy/CPcg7R97a+E=",
         "mf": "C6H13NO",
         "idCodeHash": "81fd785fd942608969110ae80480e74e",
-        "idCode": "dazH@DAIfujj@@",
-        "file": "./50_C6H12NO_Amides/04/index.json",
-        "title": "Exercise 57"
+        "file": "./50_C6H13NO_Amides/04/index.json",
+        "title": "Exercise 57",
+        "idCode": "dazH@DAIfujj@@"
       },
       {
         "id": "YJhJLHVUqsszhIaqIDZsQATInrQ=",
         "mf": "C6H13NO",
         "idCodeHash": "ad596d00965f6ab046a248f1a00a7894",
-        "idCode": "dazH@DAIfYjj@@",
-        "file": "./50_C6H12NO_Amides/05/index.json",
-        "title": "Exercise 58"
+        "file": "./50_C6H13NO_Amides/05/index.json",
+        "title": "Exercise 58",
+        "idCode": "dazH@DAIfYjj@@"
       },
       {
         "id": "TX0Lbik2mFiB00e1ArpXBhBDtP8=",
         "mf": "C6H13NO",
         "idCodeHash": "d7bd3c403aca4aed4b1b1cffb7465a31",
-        "idCode": "dazH@DAIfUjj@@",
-        "file": "./50_C6H12NO_Amides/06/index.json",
-        "title": "Exercise 59"
+        "file": "./50_C6H13NO_Amides/06/index.json",
+        "title": "Exercise 59",
+        "idCode": "dazH@DAIfUjj@@"
       }
     ]
   },
@@ -522,65 +522,65 @@
         "id": "uus6bB1OTIi/H5pytdLomQUePVo=",
         "mf": "C9H12O",
         "idCodeHash": "382fd7e231e9be2f2d694b0c1dacc9bb",
-        "idCode": "deTH@@Rfuenh@J@@",
         "file": "./60_C9H12O_Aromatic/02/index.json",
-        "title": "Exercise 60"
+        "title": "Exercise 60",
+        "idCode": "deTH@@Rfuenh@J@@"
       },
       {
         "id": "438M8hFusnf85UqyDLQNXoopQIU=",
         "mf": "C9H12O",
         "idCodeHash": "508fab4c2711eea51a91dba76da9d48c",
-        "idCode": "deTH@@RfUahHB@@",
         "file": "./60_C9H12O_Aromatic/05/index.json",
-        "title": "Exercise 61"
+        "title": "Exercise 61",
+        "idCode": "deTH@@RfUahHB@@"
       },
       {
         "id": "W8FOanMvJskenr4D2qJKxwNIN3Y=",
         "mf": "C9H12O",
         "idCodeHash": "d3b6561fd917797a6ed59629a70351bb",
-        "idCode": "deTH@@Rfuunh@J@@",
         "file": "./60_C9H12O_Aromatic/09/index.json",
-        "title": "Exercise 62"
+        "title": "Exercise 62",
+        "idCode": "deTH@@Rfuunh@J@@"
       },
       {
         "id": "yEVXhM1YHWSxlMgzyU9RotzUhKU=",
         "mf": "C9H12O",
         "idCodeHash": "e7f1020e6730219e8038591d92884e96",
-        "idCode": "deTH@@RfUWihHH@@",
         "file": "./60_C9H12O_Aromatic/10/index.json",
-        "title": "Exercise 63"
+        "title": "Exercise 63",
+        "idCode": "deTH@@RfUWihHH@@"
       },
       {
         "id": "+qyVC3ts0mbpR3fAtTwQi8oNPLA=",
         "mf": "C9H12O",
         "idCodeHash": "8154d6eacd17154d9f2af8eeb901ce8b",
-        "idCode": "deTH@@RfU{ahHB@@",
         "file": "./60_C9H12O_Aromatic/11/index.json",
-        "title": "Exercise 64"
+        "title": "Exercise 64",
+        "idCode": "deTH@@RfU{ahHB@@"
       },
       {
         "id": "+FXiA5qXVlzt8iMnEj2bD23IotQ=",
         "mf": "C9H12O",
         "idCodeHash": "43d26828b13dc9eefdae49e9bdc22ef6",
-        "idCode": "deTH@@RfV\\YhH`@@",
         "file": "./60_C9H12O_Aromatic/13/index.json",
-        "title": "Exercise 65"
+        "title": "Exercise 65",
+        "idCode": "deTH@@RfV\\YhH`@@"
       },
       {
         "id": "wK/t4WlFmDQB2ywTMsyUBlmwpBs=",
         "mf": "C9H12O",
         "idCodeHash": "936814c88940f4b95b87aa05d68bc646",
-        "idCode": "deTH@@rQQQHcMAP@@@",
         "file": "./60_C9H12O_Aromatic/14/index.json",
-        "title": "Exercise 66"
+        "title": "Exercise 66",
+        "idCode": "deTH@@rQQQHcMAP@@@"
       },
       {
         "id": "V1RTqAJEWzsFj9CebzB9SD5guss=",
         "mf": "C9H12O",
         "idCodeHash": "d0343ca8ba24e7d997f0df5a9366af5a",
-        "idCode": "deTH@@rQSIPmu@AP@@",
         "file": "./60_C9H12O_Aromatic/16/index.json",
-        "title": "Exercise 67"
+        "title": "Exercise 67",
+        "idCode": "deTH@@rQSIPmu@AP@@"
       }
     ]
   },
@@ -592,121 +592,121 @@
         "id": "ooevpABuVkSdbWVSel3lCDHI0fQ=",
         "mf": "C5H10O2",
         "idCodeHash": "eb47bc58f18348f072fa6872ca0e0f78",
-        "idCode": "gNp`@dfUZj@@",
         "file": "./90_Mixed/01/index.json",
-        "title": "Exercise 68"
+        "title": "Exercise 68",
+        "idCode": "gNp`@dfUZj@@"
       },
       {
         "id": "ayuLe4CvLJ53jjWTh3hOTWixV9U=",
         "mf": "C6H15N",
         "idCodeHash": "682c15c5310e31b584df5642842cfb09",
-        "idCode": "gNx@@eRmUP@",
         "file": "./90_Mixed/02/index.json",
-        "title": "Exercise 69"
+        "title": "Exercise 69",
+        "idCode": "gNx@@eRmUP@"
       },
       {
         "id": "QR7tvUfaYsNyaJGodFIPB060tg8=",
         "mf": "C8H10",
         "idCodeHash": "eb8d2e1545be5bbd9e2067e2c8f9c8a5",
-        "idCode": "daD@@DjUZxHH@@",
         "file": "./90_Mixed/03/index.json",
-        "title": "Exercise 70"
+        "title": "Exercise 70",
+        "idCode": "daD@@DjUZxHH@@"
       },
       {
         "id": "2MS1hk0rv/PlNJWvkb0czEmaIXU=",
         "mf": "C8H8O2",
         "idCodeHash": "6a9d61bcf9a3ceb39c0b4659e92d7460",
-        "idCode": "deTD@@iIYe^e```@@",
         "file": "./90_Mixed/04/index.json",
-        "title": "Exercise 71"
+        "title": "Exercise 71",
+        "idCode": "deTD@@iIYe^e```@@"
       },
       {
         "id": "3sdk4P6vquebXuAxL+Cbdw5VUdI=",
         "mf": "C5H11Cl",
         "idCodeHash": "ac1658d3de579048cdb9ba1cc6b6fa4d",
-        "idCode": "gGPHADIJuU@@",
         "file": "./90_Mixed/05/index.json",
-        "title": "Exercise 72"
+        "title": "Exercise 72",
+        "idCode": "gGPHADIJuU@@"
       },
       {
         "id": "O7blijKe+wtIcPyVdJbEbmbuOdg=",
         "mf": "C7H7OBr",
         "idCodeHash": "587abe5a6fd06f12b8e395dd83b253d2",
-        "idCode": "didH`FCDRYVzz@H`@@",
         "file": "./90_Mixed/07/index.json",
-        "title": "Exercise 73"
+        "title": "Exercise 73",
+        "idCode": "didH`FCDRYVzz@H`@@"
       },
       {
         "id": "C9tCCSMMhn1TTJehUj9hC5Acf9Y=",
         "mf": "C5H10O",
         "idCodeHash": "675bc54346a87137045d13d66d181efe",
-        "idCode": "gGQ@@eKTt@@",
         "file": "./90_Mixed/08/index.json",
-        "title": "Exercise 74"
+        "title": "Exercise 74",
+        "idCode": "gGQ@@eKTt@@"
       },
       {
         "id": "EaKs2ALavn0glrz2zngx/8Bg0lQ=",
         "mf": "C7H7NO2",
         "idCodeHash": "b4f4279b8d835502d5d2840adc587521",
-        "idCode": "deVDAHAHeNR[e_aZ@B@@",
         "file": "./90_Mixed/09/index.json",
-        "title": "Exercise 75"
+        "title": "Exercise 75",
+        "idCode": "deVDAHAHeNR[e_aZ@B@@"
       },
       {
         "id": "6BgyBpbzbzF1hs1tq45qqI421Jc=",
         "mf": "C8H14O3",
         "idCodeHash": "4761c8e872fd792cc36088e849fa9cc7",
-        "idCode": "dmTL@@SlbbTTlZjZ`@",
         "file": "./90_Mixed/10/index.json",
-        "title": "Exercise 76"
+        "title": "Exercise 76",
+        "idCode": "dmTL@@SlbbTTlZjZ`@"
       },
       {
         "id": "gT/ySuoBwBOD0udHOlBm6jObaWw=",
         "mf": "C7H9N",
         "idCodeHash": "757f6b6d9e00f521978a2f40c16a8d84",
-        "idCode": "daF@@@ReYJ`@h@@",
         "file": "./90_Mixed/11/index.json",
-        "title": "Exercise 77"
+        "title": "Exercise 77",
+        "idCode": "daF@@@ReYJ`@h@@"
       },
       {
         "id": "1Kf8lXXaJRAEyFK7tt0AFjdE4Qc=",
         "mf": "C7H15NO2",
         "idCodeHash": "3f85b461d262f3f3ac68b9a72b8e8dd6",
-        "idCode": "defD@JADfUYZjj@@",
         "file": "./90_Mixed/12/index.json",
-        "title": "Exercise 78"
+        "title": "Exercise 78",
+        "idCode": "defD@JADfUYZjj@@"
       },
       {
         "id": "vZYSdSDL+XLp/NBncJ/cMyyGEH0=",
         "mf": "C10H12O",
         "idCodeHash": "0f06058039ca60ea1d32bc13e9dc7be9",
-        "idCode": "dmtH@@rJJYJGaZ@B`@@",
         "file": "./90_Mixed/13/index.json",
-        "title": "Exercise 79"
+        "title": "Exercise 79",
+        "idCode": "dmtH@@rJJYJGaZ@B`@@"
       },
       {
         "id": "uvfu+xLZBS1XlfuloMaX2bob9dk=",
         "mf": "C7H14O2",
         "idCodeHash": "a74d371cc5bf45591540b567f661eff3",
-        "idCode": "diDD@@QIeZZjh@@",
         "file": "./90_Mixed/14/index.json",
-        "title": "Exercise 80"
+        "title": "Exercise 80",
+        "idCode": "diDD@@QIeZZjh@@"
       },
       {
         "id": "MA+0DbOHyk4SOe+qF4eVKjfEYLk=",
         "mf": "C10H15N",
         "idCodeHash": "a2a5e4ba716e178302a0214a9e5e24f5",
-        "idCode": "dmv@@@rRJEJKaj@B`@@",
         "file": "./90_Mixed/15/index.json",
-        "title": "Exercise 81"
+        "title": "Exercise 81",
+        "idCode": "dmv@@@rRJEJKaj@B`@@"
       },
       {
         "id": "+1f6H4kqk1VtmlZZdgrBauuSqAM=",
         "mf": "C5H10O",
         "idCodeHash": "c4127ed7057510908907f3ba54a79b1c",
-        "idCode": "gGQ@@eJttHh",
         "file": "./90_Mixed/16/index.json",
-        "title": "Exercise 82"
+        "title": "Exercise 82",
+        "idCode": "gGQ@@eJttHh"
       }
     ]
   }
